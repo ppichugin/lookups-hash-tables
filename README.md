@@ -6,6 +6,6 @@
 
 1. ✅ Chaining
 2. ✅ Linear Probing
-3. ⏳ Removing Items
+3. ✅ Removing Items
 4. ⏳ Quadratic Probing
 5. ⏳ Double Hashing

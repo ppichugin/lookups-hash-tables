@@ -8,4 +8,4 @@
 2. ✅ Linear Probing
 3. ✅ Removing Items
 4. ✅ Quadratic Probing
-5. ⏳ Double Hashing
+5. ✅ Double Hashing
